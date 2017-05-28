@@ -1,6 +1,11 @@
 ##PARET2故事诸要素
+
 ###[CHAPTER02结构图谱](CHAPTER02.md)
+
 ###[CHAPTER03结构与背景](CHAPTER03.md)
+
 ###[CHAPTER04结构与类型](CHAPTER04.md)
+
 ###[CHAPTER05结构与人物](CHAPTER05.md)
+
 ###[CHAPTER06结构与意义](CHAPTER06.md)
